@@ -2,7 +2,7 @@
 
 * Swift 5+
 * The layout is done programmatically.
-* SPM for exterior dependencies - have been used (SnapKit).
+* SPM for external dependencies have been used (SnapKit).
 * SpriteKit.
   
   <img width="147" alt="Screenshot 2023-08-24 at 11 04 55" src="https://github.com/KaliProgrammer/SpaceInvasionGame/assets/100012767/be267090-84f3-42ec-ba2e-3ab28ee35faf">
