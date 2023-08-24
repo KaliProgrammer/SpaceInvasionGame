@@ -1,7 +1,7 @@
 # SpaceInvasionGame
 
 * Swift 5+
-* The layout is done by code.
+* The layout is done programmatically.
 * SPM for exterior dependencies - have been used (SnapKit).
 * SpriteKit.
   
